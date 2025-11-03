@@ -246,10 +246,8 @@ Feel free to check the [issues page](https://github.com/yourusername/customer-se
 
 ## 👤 Author
 
-**Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-- Email: your.email@example.com
+**Lucas Valenca**  
+
 
 ---
 
